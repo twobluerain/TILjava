@@ -1,0 +1,49 @@
+
+ 
+
+Computer  cpu = new Computer()
+
+"cpu는 인스턴스" 보다는 "cpu는 객체"라는 표현이
+
+"cpu는 Computer의 객체" 보다는 "cpu는 Computer의 인스턴스" 라는 표현이 훨씬 잘 어울린다.
+
+ 
+
+수많은 객체(cpu ram hdd sdd pow cooler graphic)들을
+
+Computer 클래스로 만들 수 있다.
+
+ 
+
+ 
+
+
+ 
+
+Computer라는 클래스에 cpu라는 객체가 있고
+
+cpu라는 객체에 객체 변수를 String 과 int 로 선언한 모습.
+
+객체 변수 / 멤버 변수 / 속성 이라고도 한다.
+
+ 
+
+
+ 
+
+static double PI : 클래스 변수
+
+앞에 static는 해당 클래스 내에서 항상 값이 같은 PI라는 변수를 선언하는 것이다.
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+public static void sum / public static void avg라는 클래스 변수를 선언한 것
+
+따로 변수 설정을 하지 않고 클래스 변수를 통해 바로 값을 도출해 낼 수 있다.
